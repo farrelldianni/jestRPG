@@ -1,0 +1,22 @@
+{
+  "name": "jestrpg",
+  "version": "1.0.0",
+  "description": "Jest RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farrelldianni/jestRPG.git"
+  },
+  "author": "farrelldianni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farrelldianni/jestRPG/issues"
+  },
+  "homepage": "https://github.com/farrelldianni/jestRPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
